@@ -1,18 +1,45 @@
-# React + Vite
+# KoinX Tax Loss Harvesting Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive, interactive React application built for the KoinX Frontend Intern assignment. This tool allows users to visualize their capital gains and dynamically calculate tax savings by selecting specific crypto assets to harvest.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[Insert Your Vercel/Netlify Link Here]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 Screenshots
+*(Take a screenshot of your app in Light Mode and Dark Mode and replace the links below. You can drag and drop images directly into GitHub's editor to generate the image links!)*
+- **Light Mode:** `![Light Mode](link-here)`
+- **Dark Mode:** `![Dark Mode](link-here)`
 
-## React Compiler
+## 🛠 Tech Stack
+- **Framework:** React.js (via Vite)
+- **Styling:** CSS3 (with CSS Variables for Dark Mode)
+- **State Management:** React `useState` and `useMemo`
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ✨ Features Implemented
+- Pixel-perfect replication of the provided Figma UI.
+- Interactive **Holdings Table** with dynamic selection (individual and select-all).
+- Real-time updates to the **After Harvesting** card based on user selections.
+- Automatic **Tax Savings calculation** and visual banner.
+- **Bonus:** Built-in Dark/Light mode toggle.
+- **Bonus:** "View All" functionality to expand/collapse the holdings list.
+- **Bonus:** Click-away interactive Tooltip for "How it works".
+- Fully responsive design for desktop and mobile viewing.
 
-Note: This will impact Vite dev & build performances.
+## ⚙️ Local Setup Instructions
 
-## Expanding the ESLint configuration
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/koinx-tax-assignment.git](https://github.com/your-username/koinx-tax-assignment.git)
+Navigate to the project directory:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Bash
+cd koinx-tax-assignment
+Install dependencies:
+
+Bash
+npm install
+Start the development server:
+
+Bash
+npm run dev
+Open your browser and visit http://localhost:5173
