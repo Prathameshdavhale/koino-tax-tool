@@ -3,12 +3,13 @@
 A responsive, interactive React application built for the KoinX Frontend Intern assignment. This tool allows users to visualize their capital gains and dynamically calculate tax savings by selecting specific crypto assets to harvest.
 
 ## 🚀 Live Demo
-[Insert Your Vercel/Netlify Link Here]
+https://koino-tax-tool.vercel.app
 
 ## 📸 Screenshots
-*(Take a screenshot of your app in Light Mode and Dark Mode and replace the links below. You can drag and drop images directly into GitHub's editor to generate the image links!)*
-- **Light Mode:** `![Light Mode](link-here)`
-- **Dark Mode:** `![Dark Mode](link-here)`
+
+- **Light Mode:** <img width="1517" height="892" alt="image" src="https://github.com/user-attachments/assets/eacbd152-c95a-4768-a285-70dc9b78a7fd" />**
+
+- **Dark Mode:** <img width="1627" height="885" alt="image" src="https://github.com/user-attachments/assets/4b7c41d8-563f-4435-b642-68d53c1b4ab2" />
 
 ## 🛠 Tech Stack
 - **Framework:** React.js (via Vite)
@@ -29,7 +30,7 @@ A responsive, interactive React application built for the KoinX Frontend Intern 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/koinx-tax-assignment.git](https://github.com/your-username/koinx-tax-assignment.git)
+   git clone [https://github.com/your-username/koinx-tax-tool.git](https://github.com/Prathameshdavhale/koinx-tax-tool.git)
 Navigate to the project directory:
 
 Bash
