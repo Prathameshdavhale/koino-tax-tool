@@ -33,14 +33,17 @@ https://koino-tax-tool.vercel.app
    git clone [https://github.com/your-username/koinx-tax-tool.git](https://github.com/Prathameshdavhale/koinx-tax-tool.git)
 Navigate to the project directory:
 
-Bash
+Bash:
+
 cd koinx-tax-assignment
 Install dependencies:
 
-Bash
+Bash: 
+
 npm install
 Start the development server:
 
-Bash
+Bash:
+
 npm run dev
 Open your browser and visit http://localhost:5173
